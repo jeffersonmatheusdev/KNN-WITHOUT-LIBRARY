@@ -1,5 +1,5 @@
 # KNN com python puro
-##### Implementação do algoritimo KNN com python puro para melhor entendimento do funcionamento do algoritimo.
+##### Implementação do algoritmo KNN com python puro para melhor entendimento do funcionamento do algoritmo.
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Tecnologia Principal
